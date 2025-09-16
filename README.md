@@ -28,5 +28,6 @@ Even so, I recommend not to type your private information, for example, your rea
 ## Contact
 If there is no function(tool) you're looking for, please let me know, or you could submit PR 
 Thanks
-🔧 Please contact nujabes403@gmail.com or create issues if any problem. :) 
+🔧 Please contact or create issues if any problem. :) 
+
 
